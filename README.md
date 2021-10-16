@@ -1,8 +1,11 @@
 # School_District_Analysis
 
 ## Overview of Project
-The purpose of this project was multifold, 1)familarize ourselves with Jupyter Notebook 2) read in and merge 2 csv files to 1 data frame 3) perform data cleanup
-and 4)analyze how the results of that cleanup impacts calculations and overall results.
+The purpose of this project was multifold: 
+* Familarize ourselves with Jupyter Notebook 
+* Read in and merge 2 csv files to 1 data frame 
+* Perform data cleanup
+* Analyze how the results of that cleanup impacts calculations and overall results
 
 
 ## Results
