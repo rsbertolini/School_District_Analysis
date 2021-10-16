@@ -9,14 +9,14 @@ and 4)analyze how the results of that cleanup impacts calculations and overall r
 **How is the district summary affected?**
 The affect on district totals was very minor.  Only 461 records of 39170 records (1.8%) were discarded in the calculations which led to slightly lower district averages
 and totals.  As a whole, at the district level the calculations were not affected by the loss of the data.
-![Pre cleanup district summary totals](Images/Image1)
-![Post cleanup district summary totals](Images/Image2)
+[Pre cleanup district summary totals](Images/Image1)
+[Post cleanup district summary totals](Images/Image2)
 
 **How is the school summary affected?**
 After setting all the 9th grade score values to NaN for Thomas High School, we found that the average (mean) score in math and reading wasn't affected much.
 These values stayed relatively stable.  However, the percentage of students passing math & reading and overall percentage passing fell sharply because we 
-never changed the value of the Thomas student count.  Passing math percentages fell from 93% to 67% and passing reading percentages fell from 97% to 70%.  
-The Thomas High School student count stayed at 1635 so it diluted the passing percentages when we set the 9th grade values to Nan.
+never changed the value of the Thomas student count.  Passing math percentages fell from 93% to 67% and passing reading percentages fell from 97% to 70%.  The Thomas 
+High School student count stayed at 1635 so it diluted the passing percentages when we set the 9th grade values to NaN.
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 Replacing the ninth grade scores to NaN affected Thomas High School negatively.  They moved down to 8th place overall from 2nd place.  The overall passing percentage used for 
