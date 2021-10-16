@@ -48,4 +48,4 @@ NaN values seemed to be ignored and not considered to be zero in mean calculatio
 calculated percentages.
 3.  By reducing the total student count by the number of records we set to NaN, this seemed to be the best way of keeping the data clean and with little impact
 to data integrity.
-4.  Overall, cleaning the data and removing rows in question seemed to have very little affect in overall totals.
+4.  Overall in a dataset of this size, cleaning the data and removing rows in question seemed to have very little affect in overall totals.
