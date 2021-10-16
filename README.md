@@ -9,8 +9,8 @@ and 4)analyze how the results of that cleanup impacts calculations and overall r
 **How is the district summary affected?**
 The affect on district totals was very minor.  Only 461 records of 39170 records (1.8%) were discarded in the calculations which led to slightly lower district averages
 and totals.  As a whole, at the district level the calculations were not affected by the loss of the data.
-[Pre cleanup district summary totals](Images/Image1)
-[Post cleanup district summary totals](Images/Image2)
+[Pre cleanup district summary totals](Images/Image1.PNG)
+[Post cleanup district summary totals](Images/Image2.PNG)
 
 **How is the school summary affected?**
 After setting all the 9th grade score values to NaN for Thomas High School, we found that the average (mean) score in math and reading wasn't affected much.
